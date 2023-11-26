@@ -11,3 +11,5 @@ for k, v in new_list.items():
     
 total_items = len(lista_zakupow['piekarnia']) + len(lista_zakupow['warzywniak'])
 print(f'W sumie w koszyku mam {total_items} produktow. I ide do kasy...')
+last_value = "I koniec :-))"
+print(last_value)
